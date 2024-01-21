@@ -1,0 +1,7 @@
+Sucess: que legal (LogFileMixin)
+Error: Qualquer Coisa (LogFileMixin)
+Sucess: que legal (LogFileMixin)
+Sucess: Xiaomi est· Ligado! (Smartphone)
+Sucess: Iphone est· Desligado! (Smartphone)
+Sucess: Xiaomi est√° Ligado! (Smartphone)
+Sucess: Iphone est√° Desligado! (Smartphone)
